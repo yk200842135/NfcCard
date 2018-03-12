@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">RFDEMO_NFC</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_nfc_enable">NFC开门</string>
+    <string name="pref_shake_enable">摇一摇开门</string>
+    <string name="pref_feel_enable">感应开门</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="prompt_username">手机号</string>
+    <string name="prompt_password">验证码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_get_code">获取验证码</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_username">无效的手机号</string>
+    <string name="error_invalid_authcode">无效的验证码</string>
+    <string name="error_incorrect_password">验证码错误</string>
+
+    <string name="get_authcode_success">获取验证码成功</string>
+    <string name="login_success">登录成功</string>
+    <string name="error_net_connection">通讯失败</string>
+    <string name="error_json">返回无效json</string>
+    <string name="error_phone_empty">手机号不能为空</string>
+    <string name="error_phone_len">手机号长度不对</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="pref_card_uid">卡号</string>
+    <string name="pref_default_card_uid">12345678</string>
+    <string name="pref_card_key">卡密</string>
+    <string name="pref_default_card_key">n46jF1uYE93LPg8V</string>
+    <string name="action_settings">设置</string>
+    <string name="action_clear">清空</string>
+    <string name="action_quit">退出</string>
+    <string name="action_refresh_door">刷新</string>
+
+    <string name="card_title">立方门禁卡</string>
+    <string name="service_name">service_rf_nfc_card</string>
+    <string name="defaultmac">000000000000000000</string>
+    <string name="openning">开门中...</string>
+    <string name="error_param">未初始化或参数错误</string>
+    <string name="wait_please">正在开门中，请稍候</string>
+    <string name="device_invalid">无效设备，请重新刷新</string>
+</resources>

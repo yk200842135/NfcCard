@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\work\bus_qrcode_project\nfc\app\libs\RfNfcSDK_V1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="19"
+        optimize="true"
+        revision="26.0.2"
+        sha1="681ee3273eaaf8265f7a93f8f5c476cd0af85e21">
+        <dex dex="E:\work\bus_qrcode_project\nfc\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

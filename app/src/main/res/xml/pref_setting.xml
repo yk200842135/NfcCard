@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:capitalize="words"
+        android:text="@string/pref_default_card_uid"
+        android:inputType="textCapCharacters"
+        android:key="card_uid"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_card_uid"/>
+
+    <EditTextPreference
+        android:capitalize="words"
+        android:text="@string/pref_default_card_key"
+        android:inputType="textCapCharacters"
+        android:key="card_key"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_card_key"/>
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="sp_shake"
+        android:title="@string/pref_shake_enable" />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="sp_feel"
+        android:title="@string/pref_feel_enable" />
+
+</PreferenceScreen>
