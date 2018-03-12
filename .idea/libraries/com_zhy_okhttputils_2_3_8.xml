@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.zhy:okhttputils-2.3.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okhttputils-2.3.8.aar/8f7cf722d044f409a051d4d30b9fbba4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/okhttputils-2.3.8.aar/8f7cf722d044f409a051d4d30b9fbba4/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhy/okhttputils/2.3.8/9ff13a40aef9e5946a95be1257cd054b0a3483aa/okhttputils-2.3.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

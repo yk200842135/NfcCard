@@ -8,7 +8,7 @@ import android.os.Bundle;
  */
 
 public class RfNfcCardService extends HostApduService {
-    private static final String TAG = "RfNfcCardService2";
+    private static final String TAG = "RfNfcCardService";
     private RfNfcKey rfNfcKey = null;
 
     /**
